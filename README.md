@@ -1,4 +1,4 @@
-# FILE-CRYPTION-SERVICE
+# FILE CRYPTION SERVICE
 
 Our crypto service is one of the best on the market.
 Fully supported and constantly updated.
